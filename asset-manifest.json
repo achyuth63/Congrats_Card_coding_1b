@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/achyuth63/publish_react_project.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/achyuth63/publish_react_project.git/static/js/main.64d3c7f8.chunk.js",
+    "main.js.map": "/achyuth63/publish_react_project.git/static/js/main.64d3c7f8.chunk.js.map",
+    "runtime-main.js": "/achyuth63/publish_react_project.git/static/js/runtime-main.a9ca67a3.js",
+    "runtime-main.js.map": "/achyuth63/publish_react_project.git/static/js/runtime-main.a9ca67a3.js.map",
+    "static/js/2.bc160bc8.chunk.js": "/achyuth63/publish_react_project.git/static/js/2.bc160bc8.chunk.js",
+    "static/js/2.bc160bc8.chunk.js.map": "/achyuth63/publish_react_project.git/static/js/2.bc160bc8.chunk.js.map",
+    "static/js/3.7a8ad93e.chunk.js": "/achyuth63/publish_react_project.git/static/js/3.7a8ad93e.chunk.js",
+    "static/js/3.7a8ad93e.chunk.js.map": "/achyuth63/publish_react_project.git/static/js/3.7a8ad93e.chunk.js.map",
+    "index.html": "/achyuth63/publish_react_project.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/achyuth63/publish_react_project.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bc160bc8.chunk.js.LICENSE.txt": "/achyuth63/publish_react_project.git/static/js/2.bc160bc8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/achyuth63/publish_react_project.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ca67a3.js",
+    "static/js/2.bc160bc8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.64d3c7f8.chunk.js"
+  ]
+}
